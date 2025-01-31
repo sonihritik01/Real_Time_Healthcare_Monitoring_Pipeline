@@ -1,0 +1,9 @@
+{
+	"name": "healthadff",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c8738c47-c42d-43d7-8afd-2fb3719e34a9",
+		"tenantId": "bf93bb5e-ecf0-4e3d-be0e-79b5cc527a48"
+	}
+}
