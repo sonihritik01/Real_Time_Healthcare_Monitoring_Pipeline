@@ -1,0 +1,1001 @@
+Operation_ID,Department,Resource_Used,Staff_Count
+OP_0001,ICU,CT Scanner,5
+OP_0002,Surgery,Surgical Bed,13
+OP_0003,Emergency,Ventilator,17
+OP_0004,ICU,Ventilator,18
+OP_0005,ICU,Ventilator,8
+OP_0006,Surgery,Ventilator,13
+OP_0007,Emergency,Ventilator,19
+OP_0008,Emergency,Ventilator,3
+OP_0009,ICU,Ventilator,8
+OP_0010,Radiology,CT Scanner,2
+OP_0011,ICU,Surgical Bed,8
+OP_0012,ICU,Ventilator,13
+OP_0013,ICU,CT Scanner,13
+OP_0014,ICU,CT Scanner,1
+OP_0015,Surgery,Surgical Bed,6
+OP_0016,Emergency,Ventilator,19
+OP_0017,Surgery,Surgical Bed,16
+OP_0018,Surgery,Ventilator,8
+OP_0019,Surgery,CT Scanner,1
+OP_0020,ICU,CT Scanner,16
+OP_0021,Radiology,CT Scanner,9
+OP_0022,Emergency,CT Scanner,13
+OP_0023,Radiology,Surgical Bed,11
+OP_0024,Surgery,Ventilator,13
+OP_0025,Surgery,Ventilator,10
+OP_0026,Radiology,Surgical Bed,4
+OP_0027,Radiology,Ventilator,6
+OP_0028,Radiology,CT Scanner,7
+OP_0029,Surgery,Ventilator,5
+OP_0030,Surgery,CT Scanner,11
+OP_0031,Emergency,Surgical Bed,13
+OP_0032,Emergency,Ventilator,19
+OP_0033,Surgery,Surgical Bed,10
+OP_0034,Radiology,Ventilator,10
+OP_0035,Radiology,CT Scanner,11
+OP_0036,Emergency,Surgical Bed,7
+OP_0037,Surgery,Ventilator,18
+OP_0038,Emergency,CT Scanner,4
+OP_0039,Emergency,Surgical Bed,2
+OP_0040,ICU,Surgical Bed,14
+OP_0041,ICU,Ventilator,13
+OP_0042,ICU,Ventilator,12
+OP_0043,Radiology,Ventilator,7
+OP_0044,Surgery,CT Scanner,2
+OP_0045,Surgery,Ventilator,13
+OP_0046,Surgery,Surgical Bed,14
+OP_0047,Surgery,Surgical Bed,17
+OP_0048,ICU,Ventilator,9
+OP_0049,Radiology,Ventilator,17
+OP_0050,Radiology,Surgical Bed,8
+OP_0051,ICU,CT Scanner,2
+OP_0052,Radiology,Ventilator,13
+OP_0053,ICU,Ventilator,3
+OP_0054,Surgery,Surgical Bed,16
+OP_0055,ICU,Ventilator,6
+OP_0056,Surgery,CT Scanner,19
+OP_0057,Surgery,Surgical Bed,7
+OP_0058,Emergency,Ventilator,10
+OP_0059,ICU,Surgical Bed,9
+OP_0060,Emergency,Ventilator,2
+OP_0061,ICU,Ventilator,15
+OP_0062,ICU,Ventilator,5
+OP_0063,Emergency,CT Scanner,4
+OP_0064,Emergency,CT Scanner,4
+OP_0065,ICU,Surgical Bed,18
+OP_0066,Radiology,Ventilator,4
+OP_0067,Surgery,Ventilator,17
+OP_0068,Emergency,CT Scanner,12
+OP_0069,Surgery,Ventilator,17
+OP_0070,Radiology,CT Scanner,10
+OP_0071,Radiology,Ventilator,1
+OP_0072,Radiology,Surgical Bed,18
+OP_0073,Emergency,Ventilator,18
+OP_0074,Radiology,Ventilator,14
+OP_0075,Emergency,CT Scanner,15
+OP_0076,Radiology,Ventilator,12
+OP_0077,Surgery,Ventilator,4
+OP_0078,Surgery,CT Scanner,3
+OP_0079,ICU,Surgical Bed,12
+OP_0080,Surgery,Surgical Bed,7
+OP_0081,ICU,CT Scanner,11
+OP_0082,Surgery,CT Scanner,1
+OP_0083,Emergency,CT Scanner,6
+OP_0084,Surgery,CT Scanner,15
+OP_0085,ICU,CT Scanner,15
+OP_0086,ICU,Surgical Bed,19
+OP_0087,Radiology,Surgical Bed,11
+OP_0088,Emergency,CT Scanner,2
+OP_0089,Surgery,Ventilator,14
+OP_0090,Radiology,CT Scanner,2
+OP_0091,Surgery,Ventilator,4
+OP_0092,Surgery,CT Scanner,17
+OP_0093,Radiology,CT Scanner,3
+OP_0094,Radiology,Surgical Bed,13
+OP_0095,Radiology,Ventilator,9
+OP_0096,Radiology,Ventilator,7
+OP_0097,Radiology,Surgical Bed,15
+OP_0098,Surgery,Surgical Bed,11
+OP_0099,Radiology,Surgical Bed,2
+OP_0100,Emergency,Surgical Bed,15
+OP_0101,ICU,Ventilator,14
+OP_0102,Radiology,Ventilator,11
+OP_0103,Radiology,CT Scanner,3
+OP_0104,Surgery,CT Scanner,17
+OP_0105,Radiology,Surgical Bed,12
+OP_0106,Radiology,Surgical Bed,15
+OP_0107,Radiology,Surgical Bed,16
+OP_0108,Surgery,CT Scanner,5
+OP_0109,Radiology,CT Scanner,6
+OP_0110,ICU,CT Scanner,19
+OP_0111,Surgery,CT Scanner,5
+OP_0112,ICU,CT Scanner,3
+OP_0113,Surgery,CT Scanner,1
+OP_0114,Radiology,CT Scanner,6
+OP_0115,ICU,Surgical Bed,15
+OP_0116,Surgery,Surgical Bed,2
+OP_0117,Emergency,Surgical Bed,3
+OP_0118,Radiology,Surgical Bed,17
+OP_0119,Surgery,CT Scanner,12
+OP_0120,Emergency,Ventilator,18
+OP_0121,Surgery,CT Scanner,15
+OP_0122,Emergency,Ventilator,12
+OP_0123,Radiology,Surgical Bed,16
+OP_0124,ICU,CT Scanner,8
+OP_0125,Emergency,Surgical Bed,14
+OP_0126,Surgery,CT Scanner,17
+OP_0127,Radiology,Surgical Bed,8
+OP_0128,Emergency,Ventilator,15
+OP_0129,Surgery,Ventilator,14
+OP_0130,Surgery,Ventilator,18
+OP_0131,Surgery,CT Scanner,7
+OP_0132,Emergency,Ventilator,3
+OP_0133,Emergency,CT Scanner,12
+OP_0134,Emergency,Ventilator,3
+OP_0135,ICU,Ventilator,14
+OP_0136,Emergency,CT Scanner,15
+OP_0137,Emergency,CT Scanner,14
+OP_0138,Emergency,Ventilator,7
+OP_0139,ICU,CT Scanner,17
+OP_0140,Emergency,Ventilator,12
+OP_0141,Surgery,CT Scanner,4
+OP_0142,Emergency,Surgical Bed,9
+OP_0143,Surgery,Surgical Bed,6
+OP_0144,Surgery,Surgical Bed,16
+OP_0145,Surgery,Surgical Bed,2
+OP_0146,ICU,Surgical Bed,8
+OP_0147,ICU,Ventilator,11
+OP_0148,ICU,Surgical Bed,13
+OP_0149,Emergency,Surgical Bed,17
+OP_0150,Surgery,Surgical Bed,8
+OP_0151,ICU,Surgical Bed,18
+OP_0152,ICU,CT Scanner,18
+OP_0153,Emergency,Ventilator,14
+OP_0154,ICU,Surgical Bed,15
+OP_0155,Emergency,Surgical Bed,6
+OP_0156,Radiology,Surgical Bed,11
+OP_0157,ICU,Ventilator,13
+OP_0158,Radiology,CT Scanner,1
+OP_0159,Emergency,Ventilator,6
+OP_0160,Surgery,CT Scanner,9
+OP_0161,ICU,Surgical Bed,8
+OP_0162,Emergency,Surgical Bed,11
+OP_0163,Surgery,Ventilator,19
+OP_0164,Surgery,Ventilator,9
+OP_0165,Radiology,CT Scanner,17
+OP_0166,Emergency,CT Scanner,12
+OP_0167,Surgery,Ventilator,14
+OP_0168,ICU,CT Scanner,15
+OP_0169,ICU,Ventilator,16
+OP_0170,Radiology,CT Scanner,1
+OP_0171,Surgery,Ventilator,10
+OP_0172,Emergency,Ventilator,8
+OP_0173,ICU,Ventilator,18
+OP_0174,Surgery,CT Scanner,1
+OP_0175,Surgery,CT Scanner,2
+OP_0176,Radiology,CT Scanner,1
+OP_0177,ICU,Ventilator,1
+OP_0178,ICU,CT Scanner,9
+OP_0179,Emergency,CT Scanner,13
+OP_0180,ICU,Ventilator,1
+OP_0181,Emergency,Surgical Bed,13
+OP_0182,ICU,Ventilator,7
+OP_0183,Radiology,CT Scanner,2
+OP_0184,ICU,Ventilator,6
+OP_0185,Emergency,Surgical Bed,7
+OP_0186,Emergency,Ventilator,14
+OP_0187,Radiology,CT Scanner,18
+OP_0188,ICU,Surgical Bed,15
+OP_0189,ICU,CT Scanner,2
+OP_0190,Radiology,Surgical Bed,10
+OP_0191,ICU,Surgical Bed,12
+OP_0192,ICU,Ventilator,17
+OP_0193,Emergency,Ventilator,8
+OP_0194,ICU,CT Scanner,11
+OP_0195,ICU,Ventilator,3
+OP_0196,Radiology,Ventilator,6
+OP_0197,Radiology,Surgical Bed,9
+OP_0198,Surgery,Ventilator,6
+OP_0199,Emergency,Surgical Bed,9
+OP_0200,ICU,Surgical Bed,7
+OP_0201,ICU,Surgical Bed,9
+OP_0202,Surgery,CT Scanner,18
+OP_0203,ICU,CT Scanner,12
+OP_0204,Emergency,CT Scanner,8
+OP_0205,Surgery,Surgical Bed,8
+OP_0206,Emergency,CT Scanner,18
+OP_0207,Surgery,CT Scanner,15
+OP_0208,Surgery,Ventilator,7
+OP_0209,Radiology,CT Scanner,11
+OP_0210,Emergency,CT Scanner,16
+OP_0211,ICU,Surgical Bed,4
+OP_0212,ICU,Surgical Bed,6
+OP_0213,Emergency,Surgical Bed,3
+OP_0214,ICU,Surgical Bed,9
+OP_0215,ICU,Surgical Bed,10
+OP_0216,Emergency,Surgical Bed,14
+OP_0217,Surgery,CT Scanner,11
+OP_0218,Emergency,Surgical Bed,18
+OP_0219,Surgery,Surgical Bed,12
+OP_0220,ICU,Ventilator,12
+OP_0221,ICU,CT Scanner,13
+OP_0222,ICU,CT Scanner,13
+OP_0223,Radiology,CT Scanner,19
+OP_0224,Surgery,Surgical Bed,19
+OP_0225,Radiology,Surgical Bed,14
+OP_0226,Radiology,Surgical Bed,4
+OP_0227,Emergency,Ventilator,13
+OP_0228,Radiology,Surgical Bed,8
+OP_0229,Emergency,Ventilator,19
+OP_0230,Emergency,CT Scanner,12
+OP_0231,Radiology,Surgical Bed,18
+OP_0232,Surgery,Ventilator,6
+OP_0233,Surgery,Ventilator,18
+OP_0234,Surgery,Surgical Bed,19
+OP_0235,Surgery,CT Scanner,5
+OP_0236,Surgery,CT Scanner,9
+OP_0237,Radiology,CT Scanner,3
+OP_0238,Radiology,Ventilator,10
+OP_0239,ICU,Ventilator,19
+OP_0240,Surgery,Ventilator,3
+OP_0241,Radiology,Ventilator,15
+OP_0242,ICU,CT Scanner,1
+OP_0243,Surgery,Surgical Bed,7
+OP_0244,Emergency,Ventilator,12
+OP_0245,ICU,Ventilator,17
+OP_0246,Radiology,CT Scanner,5
+OP_0247,Emergency,Surgical Bed,4
+OP_0248,Emergency,Surgical Bed,12
+OP_0249,Emergency,CT Scanner,18
+OP_0250,ICU,CT Scanner,17
+OP_0251,Radiology,Surgical Bed,19
+OP_0252,Emergency,Ventilator,9
+OP_0253,Surgery,Surgical Bed,4
+OP_0254,Emergency,CT Scanner,2
+OP_0255,Emergency,Ventilator,4
+OP_0256,ICU,Ventilator,2
+OP_0257,ICU,CT Scanner,15
+OP_0258,Radiology,CT Scanner,2
+OP_0259,Surgery,CT Scanner,4
+OP_0260,ICU,Surgical Bed,6
+OP_0261,Emergency,Surgical Bed,7
+OP_0262,Radiology,Ventilator,10
+OP_0263,Emergency,CT Scanner,19
+OP_0264,Emergency,Ventilator,19
+OP_0265,ICU,Ventilator,12
+OP_0266,Radiology,Ventilator,3
+OP_0267,Surgery,Ventilator,13
+OP_0268,Surgery,CT Scanner,18
+OP_0269,ICU,Ventilator,8
+OP_0270,ICU,CT Scanner,15
+OP_0271,Radiology,CT Scanner,1
+OP_0272,Surgery,Surgical Bed,3
+OP_0273,Surgery,CT Scanner,8
+OP_0274,Surgery,Surgical Bed,4
+OP_0275,Emergency,CT Scanner,16
+OP_0276,Surgery,CT Scanner,10
+OP_0277,Emergency,CT Scanner,12
+OP_0278,Radiology,Surgical Bed,14
+OP_0279,Emergency,Surgical Bed,14
+OP_0280,Radiology,Ventilator,2
+OP_0281,Surgery,Surgical Bed,5
+OP_0282,Surgery,Surgical Bed,5
+OP_0283,Radiology,Surgical Bed,6
+OP_0284,ICU,Surgical Bed,13
+OP_0285,Radiology,Ventilator,9
+OP_0286,ICU,Surgical Bed,15
+OP_0287,Emergency,CT Scanner,14
+OP_0288,Emergency,CT Scanner,7
+OP_0289,Emergency,Surgical Bed,2
+OP_0290,Surgery,Surgical Bed,7
+OP_0291,Emergency,CT Scanner,6
+OP_0292,ICU,CT Scanner,17
+OP_0293,Emergency,Ventilator,2
+OP_0294,Radiology,CT Scanner,3
+OP_0295,Radiology,CT Scanner,5
+OP_0296,Surgery,Surgical Bed,5
+OP_0297,Radiology,CT Scanner,1
+OP_0298,ICU,Ventilator,8
+OP_0299,Emergency,CT Scanner,12
+OP_0300,Surgery,Surgical Bed,4
+OP_0301,Emergency,Surgical Bed,13
+OP_0302,Emergency,CT Scanner,15
+OP_0303,ICU,Surgical Bed,11
+OP_0304,Radiology,Ventilator,10
+OP_0305,Radiology,Ventilator,3
+OP_0306,Emergency,CT Scanner,14
+OP_0307,Surgery,CT Scanner,16
+OP_0308,Radiology,CT Scanner,10
+OP_0309,Surgery,Surgical Bed,10
+OP_0310,Radiology,Ventilator,12
+OP_0311,Surgery,Ventilator,9
+OP_0312,ICU,Surgical Bed,1
+OP_0313,Surgery,Ventilator,5
+OP_0314,ICU,CT Scanner,8
+OP_0315,ICU,CT Scanner,11
+OP_0316,Surgery,CT Scanner,12
+OP_0317,ICU,Ventilator,1
+OP_0318,Emergency,CT Scanner,11
+OP_0319,ICU,Surgical Bed,5
+OP_0320,Radiology,Surgical Bed,15
+OP_0321,Surgery,Ventilator,5
+OP_0322,Emergency,Surgical Bed,12
+OP_0323,Surgery,Surgical Bed,5
+OP_0324,Radiology,Ventilator,17
+OP_0325,Radiology,CT Scanner,17
+OP_0326,Radiology,CT Scanner,12
+OP_0327,ICU,CT Scanner,15
+OP_0328,ICU,Ventilator,15
+OP_0329,Surgery,Surgical Bed,6
+OP_0330,Surgery,CT Scanner,12
+OP_0331,Emergency,CT Scanner,18
+OP_0332,Emergency,Ventilator,14
+OP_0333,Surgery,CT Scanner,2
+OP_0334,ICU,Ventilator,9
+OP_0335,Radiology,Surgical Bed,5
+OP_0336,Surgery,Ventilator,1
+OP_0337,Emergency,Ventilator,3
+OP_0338,ICU,Ventilator,6
+OP_0339,Surgery,Ventilator,5
+OP_0340,Surgery,Surgical Bed,5
+OP_0341,ICU,Surgical Bed,1
+OP_0342,Surgery,CT Scanner,17
+OP_0343,ICU,Surgical Bed,19
+OP_0344,Radiology,Surgical Bed,14
+OP_0345,ICU,CT Scanner,12
+OP_0346,ICU,Surgical Bed,10
+OP_0347,ICU,Ventilator,18
+OP_0348,Surgery,Ventilator,11
+OP_0349,Surgery,CT Scanner,2
+OP_0350,ICU,CT Scanner,18
+OP_0351,Surgery,CT Scanner,7
+OP_0352,Emergency,Ventilator,15
+OP_0353,Emergency,Surgical Bed,11
+OP_0354,Surgery,Ventilator,18
+OP_0355,Surgery,CT Scanner,12
+OP_0356,ICU,Surgical Bed,6
+OP_0357,Radiology,Surgical Bed,13
+OP_0358,Surgery,Ventilator,16
+OP_0359,Emergency,CT Scanner,18
+OP_0360,ICU,Ventilator,10
+OP_0361,Surgery,Surgical Bed,8
+OP_0362,Emergency,Ventilator,18
+OP_0363,Emergency,Ventilator,1
+OP_0364,Radiology,CT Scanner,8
+OP_0365,ICU,CT Scanner,6
+OP_0366,ICU,Surgical Bed,5
+OP_0367,Radiology,Ventilator,15
+OP_0368,Radiology,Ventilator,15
+OP_0369,ICU,Ventilator,2
+OP_0370,ICU,Surgical Bed,1
+OP_0371,Surgery,Surgical Bed,11
+OP_0372,Surgery,CT Scanner,10
+OP_0373,Radiology,CT Scanner,18
+OP_0374,Surgery,CT Scanner,18
+OP_0375,Emergency,Ventilator,17
+OP_0376,Surgery,Ventilator,8
+OP_0377,Surgery,CT Scanner,15
+OP_0378,Emergency,Ventilator,8
+OP_0379,Radiology,CT Scanner,17
+OP_0380,Emergency,Surgical Bed,12
+OP_0381,Surgery,CT Scanner,8
+OP_0382,Radiology,Surgical Bed,14
+OP_0383,Surgery,Ventilator,4
+OP_0384,Emergency,CT Scanner,1
+OP_0385,Emergency,Ventilator,1
+OP_0386,Surgery,Surgical Bed,19
+OP_0387,ICU,Surgical Bed,16
+OP_0388,ICU,Surgical Bed,14
+OP_0389,Emergency,Ventilator,16
+OP_0390,Emergency,Ventilator,5
+OP_0391,ICU,Ventilator,9
+OP_0392,ICU,Ventilator,2
+OP_0393,Surgery,Surgical Bed,18
+OP_0394,Surgery,Surgical Bed,6
+OP_0395,ICU,CT Scanner,9
+OP_0396,Surgery,CT Scanner,1
+OP_0397,Surgery,Ventilator,9
+OP_0398,Radiology,Surgical Bed,16
+OP_0399,Surgery,Surgical Bed,13
+OP_0400,Emergency,Surgical Bed,9
+OP_0401,Surgery,CT Scanner,13
+OP_0402,Surgery,CT Scanner,9
+OP_0403,ICU,Surgical Bed,11
+OP_0404,Emergency,Surgical Bed,4
+OP_0405,Surgery,Surgical Bed,2
+OP_0406,Surgery,CT Scanner,6
+OP_0407,Radiology,Surgical Bed,14
+OP_0408,Surgery,Surgical Bed,4
+OP_0409,Surgery,Ventilator,6
+OP_0410,Radiology,Ventilator,19
+OP_0411,ICU,CT Scanner,6
+OP_0412,Surgery,Surgical Bed,2
+OP_0413,Radiology,Surgical Bed,18
+OP_0414,Emergency,Ventilator,13
+OP_0415,ICU,CT Scanner,9
+OP_0416,Emergency,Ventilator,19
+OP_0417,Emergency,Ventilator,13
+OP_0418,Radiology,Ventilator,11
+OP_0419,Surgery,Ventilator,1
+OP_0420,Radiology,Surgical Bed,7
+OP_0421,Radiology,Surgical Bed,15
+OP_0422,Radiology,Ventilator,1
+OP_0423,Radiology,CT Scanner,12
+OP_0424,ICU,CT Scanner,7
+OP_0425,Surgery,CT Scanner,15
+OP_0426,Emergency,CT Scanner,19
+OP_0427,Emergency,Ventilator,1
+OP_0428,Surgery,Surgical Bed,17
+OP_0429,Emergency,CT Scanner,17
+OP_0430,Surgery,Ventilator,3
+OP_0431,Emergency,CT Scanner,12
+OP_0432,Radiology,CT Scanner,6
+OP_0433,Emergency,Ventilator,11
+OP_0434,Surgery,Surgical Bed,3
+OP_0435,Surgery,Surgical Bed,8
+OP_0436,Surgery,Ventilator,14
+OP_0437,Surgery,Surgical Bed,14
+OP_0438,Surgery,Ventilator,10
+OP_0439,ICU,Ventilator,2
+OP_0440,ICU,Ventilator,14
+OP_0441,Emergency,Surgical Bed,9
+OP_0442,Surgery,Ventilator,3
+OP_0443,Emergency,CT Scanner,8
+OP_0444,Surgery,Surgical Bed,16
+OP_0445,Surgery,Surgical Bed,2
+OP_0446,ICU,Surgical Bed,6
+OP_0447,ICU,Surgical Bed,12
+OP_0448,Radiology,CT Scanner,5
+OP_0449,ICU,Surgical Bed,2
+OP_0450,Radiology,Surgical Bed,16
+OP_0451,Radiology,Ventilator,5
+OP_0452,Radiology,Surgical Bed,15
+OP_0453,Radiology,CT Scanner,12
+OP_0454,Radiology,CT Scanner,4
+OP_0455,Emergency,CT Scanner,15
+OP_0456,ICU,CT Scanner,11
+OP_0457,Radiology,Surgical Bed,16
+OP_0458,Surgery,Surgical Bed,6
+OP_0459,ICU,CT Scanner,14
+OP_0460,ICU,CT Scanner,18
+OP_0461,Radiology,Surgical Bed,12
+OP_0462,Emergency,CT Scanner,11
+OP_0463,Radiology,Ventilator,13
+OP_0464,Emergency,CT Scanner,11
+OP_0465,Surgery,CT Scanner,16
+OP_0466,ICU,Ventilator,15
+OP_0467,Surgery,Ventilator,15
+OP_0468,Emergency,Surgical Bed,4
+OP_0469,Emergency,Surgical Bed,11
+OP_0470,Surgery,Ventilator,19
+OP_0471,Emergency,Ventilator,15
+OP_0472,Surgery,Surgical Bed,4
+OP_0473,ICU,CT Scanner,13
+OP_0474,Surgery,Ventilator,19
+OP_0475,ICU,Surgical Bed,2
+OP_0476,Surgery,CT Scanner,14
+OP_0477,Emergency,Ventilator,4
+OP_0478,Surgery,CT Scanner,16
+OP_0479,Emergency,Surgical Bed,14
+OP_0480,Surgery,Ventilator,15
+OP_0481,Surgery,CT Scanner,3
+OP_0482,Radiology,Ventilator,8
+OP_0483,Emergency,CT Scanner,16
+OP_0484,Radiology,Surgical Bed,10
+OP_0485,Emergency,Surgical Bed,4
+OP_0486,Radiology,Ventilator,18
+OP_0487,ICU,CT Scanner,2
+OP_0488,Surgery,Ventilator,17
+OP_0489,Emergency,Ventilator,13
+OP_0490,Emergency,CT Scanner,4
+OP_0491,Surgery,CT Scanner,11
+OP_0492,Emergency,CT Scanner,7
+OP_0493,Emergency,Surgical Bed,12
+OP_0494,Radiology,Ventilator,10
+OP_0495,Emergency,Ventilator,7
+OP_0496,ICU,Surgical Bed,13
+OP_0497,ICU,CT Scanner,7
+OP_0498,Surgery,Surgical Bed,17
+OP_0499,Emergency,Surgical Bed,10
+OP_0500,Surgery,Surgical Bed,10
+OP_0501,ICU,Ventilator,4
+OP_0502,Emergency,Surgical Bed,4
+OP_0503,Emergency,Ventilator,7
+OP_0504,Surgery,Ventilator,1
+OP_0505,ICU,Ventilator,12
+OP_0506,Emergency,CT Scanner,13
+OP_0507,Surgery,Ventilator,10
+OP_0508,ICU,Ventilator,15
+OP_0509,Surgery,CT Scanner,13
+OP_0510,Radiology,Ventilator,9
+OP_0511,Emergency,Surgical Bed,9
+OP_0512,Radiology,Surgical Bed,15
+OP_0513,ICU,Ventilator,10
+OP_0514,Radiology,CT Scanner,10
+OP_0515,Radiology,Surgical Bed,8
+OP_0516,ICU,CT Scanner,16
+OP_0517,Surgery,CT Scanner,17
+OP_0518,Radiology,Surgical Bed,5
+OP_0519,Surgery,CT Scanner,4
+OP_0520,Radiology,Surgical Bed,18
+OP_0521,Surgery,CT Scanner,19
+OP_0522,ICU,Surgical Bed,4
+OP_0523,Radiology,Ventilator,7
+OP_0524,ICU,Surgical Bed,10
+OP_0525,Radiology,Surgical Bed,18
+OP_0526,ICU,Surgical Bed,19
+OP_0527,ICU,Surgical Bed,4
+OP_0528,Radiology,CT Scanner,10
+OP_0529,Radiology,Ventilator,1
+OP_0530,Radiology,Surgical Bed,18
+OP_0531,Emergency,CT Scanner,5
+OP_0532,Surgery,Ventilator,15
+OP_0533,Emergency,Ventilator,17
+OP_0534,Emergency,Ventilator,3
+OP_0535,ICU,Ventilator,12
+OP_0536,Radiology,Surgical Bed,2
+OP_0537,Surgery,Surgical Bed,1
+OP_0538,ICU,CT Scanner,17
+OP_0539,Emergency,CT Scanner,16
+OP_0540,Radiology,CT Scanner,5
+OP_0541,ICU,Ventilator,15
+OP_0542,Radiology,Ventilator,3
+OP_0543,ICU,Surgical Bed,7
+OP_0544,Radiology,Ventilator,11
+OP_0545,Emergency,Ventilator,10
+OP_0546,Surgery,Ventilator,9
+OP_0547,Emergency,CT Scanner,14
+OP_0548,Surgery,CT Scanner,13
+OP_0549,Radiology,Surgical Bed,2
+OP_0550,ICU,Ventilator,3
+OP_0551,Emergency,Ventilator,7
+OP_0552,Surgery,Surgical Bed,18
+OP_0553,Emergency,Ventilator,3
+OP_0554,Surgery,Ventilator,10
+OP_0555,Emergency,CT Scanner,7
+OP_0556,Surgery,Surgical Bed,9
+OP_0557,Surgery,Surgical Bed,17
+OP_0558,Radiology,Surgical Bed,11
+OP_0559,Surgery,Surgical Bed,7
+OP_0560,Radiology,CT Scanner,14
+OP_0561,Surgery,CT Scanner,19
+OP_0562,ICU,Ventilator,4
+OP_0563,ICU,Ventilator,6
+OP_0564,ICU,Ventilator,10
+OP_0565,Surgery,Ventilator,7
+OP_0566,Radiology,CT Scanner,13
+OP_0567,Radiology,Surgical Bed,14
+OP_0568,Surgery,CT Scanner,4
+OP_0569,ICU,Ventilator,8
+OP_0570,ICU,CT Scanner,5
+OP_0571,Radiology,Surgical Bed,1
+OP_0572,ICU,Surgical Bed,4
+OP_0573,Emergency,CT Scanner,3
+OP_0574,Radiology,CT Scanner,9
+OP_0575,ICU,CT Scanner,8
+OP_0576,Radiology,Ventilator,1
+OP_0577,Emergency,CT Scanner,6
+OP_0578,Radiology,CT Scanner,9
+OP_0579,Radiology,CT Scanner,7
+OP_0580,Radiology,Surgical Bed,4
+OP_0581,Radiology,Surgical Bed,13
+OP_0582,Emergency,Ventilator,17
+OP_0583,Surgery,Ventilator,2
+OP_0584,Radiology,Surgical Bed,5
+OP_0585,Radiology,Surgical Bed,12
+OP_0586,ICU,Surgical Bed,8
+OP_0587,Radiology,CT Scanner,6
+OP_0588,ICU,CT Scanner,8
+OP_0589,Surgery,Surgical Bed,18
+OP_0590,Emergency,CT Scanner,3
+OP_0591,Emergency,CT Scanner,12
+OP_0592,Surgery,Ventilator,3
+OP_0593,Emergency,Surgical Bed,6
+OP_0594,Surgery,Surgical Bed,2
+OP_0595,Surgery,CT Scanner,12
+OP_0596,Surgery,Surgical Bed,2
+OP_0597,Emergency,Ventilator,6
+OP_0598,ICU,Ventilator,17
+OP_0599,Surgery,Ventilator,3
+OP_0600,Radiology,Surgical Bed,2
+OP_0601,Emergency,Surgical Bed,8
+OP_0602,Surgery,Surgical Bed,12
+OP_0603,Surgery,Surgical Bed,4
+OP_0604,Radiology,Surgical Bed,5
+OP_0605,ICU,Ventilator,13
+OP_0606,ICU,CT Scanner,15
+OP_0607,ICU,Ventilator,16
+OP_0608,Surgery,Surgical Bed,10
+OP_0609,Surgery,Ventilator,16
+OP_0610,Surgery,Surgical Bed,12
+OP_0611,Emergency,Surgical Bed,17
+OP_0612,Radiology,Ventilator,16
+OP_0613,Surgery,Surgical Bed,12
+OP_0614,Radiology,CT Scanner,8
+OP_0615,Radiology,Surgical Bed,3
+OP_0616,ICU,CT Scanner,16
+OP_0617,Emergency,CT Scanner,13
+OP_0618,Surgery,Surgical Bed,19
+OP_0619,ICU,Ventilator,8
+OP_0620,ICU,CT Scanner,5
+OP_0621,Surgery,Ventilator,8
+OP_0622,Radiology,CT Scanner,12
+OP_0623,ICU,Surgical Bed,1
+OP_0624,Radiology,Surgical Bed,6
+OP_0625,Emergency,CT Scanner,18
+OP_0626,Radiology,Surgical Bed,8
+OP_0627,Emergency,CT Scanner,7
+OP_0628,Radiology,Surgical Bed,1
+OP_0629,ICU,Ventilator,16
+OP_0630,ICU,Surgical Bed,12
+OP_0631,Emergency,Ventilator,6
+OP_0632,Surgery,Surgical Bed,2
+OP_0633,Emergency,Ventilator,14
+OP_0634,Emergency,Surgical Bed,4
+OP_0635,Radiology,Ventilator,1
+OP_0636,Radiology,CT Scanner,18
+OP_0637,Emergency,CT Scanner,13
+OP_0638,ICU,Ventilator,2
+OP_0639,Radiology,Surgical Bed,9
+OP_0640,Surgery,Ventilator,2
+OP_0641,Radiology,Surgical Bed,9
+OP_0642,Radiology,CT Scanner,1
+OP_0643,Surgery,Surgical Bed,11
+OP_0644,Emergency,CT Scanner,3
+OP_0645,Surgery,Surgical Bed,4
+OP_0646,Emergency,Surgical Bed,18
+OP_0647,Emergency,Surgical Bed,6
+OP_0648,Emergency,Ventilator,3
+OP_0649,Surgery,Ventilator,11
+OP_0650,Emergency,CT Scanner,15
+OP_0651,ICU,CT Scanner,5
+OP_0652,Surgery,Ventilator,10
+OP_0653,ICU,CT Scanner,12
+OP_0654,Emergency,Ventilator,15
+OP_0655,Radiology,Surgical Bed,17
+OP_0656,Emergency,CT Scanner,10
+OP_0657,ICU,CT Scanner,6
+OP_0658,ICU,Ventilator,18
+OP_0659,Surgery,CT Scanner,13
+OP_0660,Radiology,CT Scanner,3
+OP_0661,Surgery,Surgical Bed,10
+OP_0662,ICU,CT Scanner,14
+OP_0663,Emergency,Surgical Bed,6
+OP_0664,Radiology,Ventilator,3
+OP_0665,Emergency,CT Scanner,16
+OP_0666,Emergency,Surgical Bed,7
+OP_0667,Radiology,Ventilator,14
+OP_0668,Surgery,CT Scanner,9
+OP_0669,Emergency,Ventilator,15
+OP_0670,ICU,CT Scanner,3
+OP_0671,Emergency,Ventilator,2
+OP_0672,Radiology,Ventilator,2
+OP_0673,Radiology,Surgical Bed,3
+OP_0674,Radiology,Ventilator,18
+OP_0675,Surgery,CT Scanner,14
+OP_0676,Emergency,CT Scanner,18
+OP_0677,Surgery,Surgical Bed,10
+OP_0678,Surgery,CT Scanner,2
+OP_0679,Radiology,CT Scanner,1
+OP_0680,Radiology,CT Scanner,4
+OP_0681,Surgery,Ventilator,14
+OP_0682,Emergency,Ventilator,1
+OP_0683,ICU,CT Scanner,14
+OP_0684,Surgery,Surgical Bed,16
+OP_0685,Emergency,Ventilator,14
+OP_0686,Radiology,Surgical Bed,3
+OP_0687,Radiology,CT Scanner,3
+OP_0688,Emergency,CT Scanner,9
+OP_0689,ICU,Ventilator,6
+OP_0690,Radiology,CT Scanner,13
+OP_0691,Radiology,Ventilator,2
+OP_0692,Radiology,CT Scanner,8
+OP_0693,Emergency,CT Scanner,2
+OP_0694,Surgery,Ventilator,4
+OP_0695,Radiology,Ventilator,15
+OP_0696,Surgery,Ventilator,4
+OP_0697,ICU,CT Scanner,13
+OP_0698,Radiology,CT Scanner,12
+OP_0699,Radiology,Surgical Bed,13
+OP_0700,ICU,Ventilator,14
+OP_0701,Radiology,CT Scanner,18
+OP_0702,Surgery,CT Scanner,6
+OP_0703,Emergency,Ventilator,11
+OP_0704,Surgery,Surgical Bed,2
+OP_0705,Emergency,Ventilator,19
+OP_0706,Emergency,Surgical Bed,19
+OP_0707,Surgery,CT Scanner,5
+OP_0708,Surgery,Surgical Bed,19
+OP_0709,Surgery,CT Scanner,2
+OP_0710,Surgery,Ventilator,10
+OP_0711,ICU,Ventilator,2
+OP_0712,Radiology,Ventilator,11
+OP_0713,Emergency,Surgical Bed,18
+OP_0714,Surgery,CT Scanner,15
+OP_0715,Surgery,Ventilator,9
+OP_0716,Surgery,Ventilator,19
+OP_0717,ICU,CT Scanner,9
+OP_0718,Surgery,Ventilator,3
+OP_0719,Surgery,CT Scanner,9
+OP_0720,Surgery,CT Scanner,14
+OP_0721,Radiology,CT Scanner,19
+OP_0722,ICU,CT Scanner,7
+OP_0723,Surgery,CT Scanner,16
+OP_0724,Emergency,Surgical Bed,16
+OP_0725,Emergency,Ventilator,1
+OP_0726,Emergency,Surgical Bed,4
+OP_0727,ICU,Ventilator,4
+OP_0728,ICU,Surgical Bed,7
+OP_0729,Emergency,CT Scanner,8
+OP_0730,Surgery,Ventilator,17
+OP_0731,ICU,Ventilator,5
+OP_0732,Emergency,Surgical Bed,7
+OP_0733,Emergency,Surgical Bed,4
+OP_0734,Surgery,Ventilator,6
+OP_0735,Radiology,Surgical Bed,7
+OP_0736,ICU,Surgical Bed,18
+OP_0737,Surgery,Surgical Bed,5
+OP_0738,Emergency,CT Scanner,3
+OP_0739,Emergency,CT Scanner,7
+OP_0740,Surgery,Surgical Bed,14
+OP_0741,ICU,Surgical Bed,7
+OP_0742,Radiology,CT Scanner,5
+OP_0743,Radiology,CT Scanner,5
+OP_0744,Emergency,Ventilator,2
+OP_0745,ICU,Ventilator,6
+OP_0746,Radiology,CT Scanner,15
+OP_0747,ICU,Surgical Bed,10
+OP_0748,ICU,Surgical Bed,7
+OP_0749,Emergency,Surgical Bed,5
+OP_0750,Radiology,Surgical Bed,1
+OP_0751,Surgery,Ventilator,13
+OP_0752,Emergency,CT Scanner,18
+OP_0753,Radiology,Surgical Bed,13
+OP_0754,Radiology,Ventilator,18
+OP_0755,Radiology,Surgical Bed,5
+OP_0756,Radiology,CT Scanner,13
+OP_0757,Radiology,Ventilator,4
+OP_0758,ICU,CT Scanner,17
+OP_0759,Emergency,CT Scanner,3
+OP_0760,ICU,Ventilator,17
+OP_0761,Surgery,Ventilator,11
+OP_0762,Radiology,Ventilator,4
+OP_0763,Emergency,Ventilator,2
+OP_0764,Radiology,Ventilator,16
+OP_0765,Emergency,Ventilator,18
+OP_0766,ICU,Ventilator,8
+OP_0767,Emergency,Surgical Bed,3
+OP_0768,Surgery,CT Scanner,9
+OP_0769,Surgery,Ventilator,6
+OP_0770,Emergency,Surgical Bed,10
+OP_0771,Emergency,Surgical Bed,10
+OP_0772,Emergency,Surgical Bed,13
+OP_0773,Emergency,CT Scanner,17
+OP_0774,Surgery,Ventilator,9
+OP_0775,Radiology,Surgical Bed,17
+OP_0776,Emergency,CT Scanner,9
+OP_0777,Emergency,CT Scanner,9
+OP_0778,Surgery,CT Scanner,1
+OP_0779,Surgery,Surgical Bed,2
+OP_0780,ICU,Ventilator,16
+OP_0781,Emergency,Surgical Bed,1
+OP_0782,ICU,Surgical Bed,10
+OP_0783,Surgery,Ventilator,18
+OP_0784,Surgery,Ventilator,8
+OP_0785,Radiology,Ventilator,11
+OP_0786,Emergency,CT Scanner,2
+OP_0787,ICU,Ventilator,8
+OP_0788,Surgery,Surgical Bed,8
+OP_0789,Surgery,Ventilator,17
+OP_0790,ICU,Surgical Bed,15
+OP_0791,Radiology,CT Scanner,17
+OP_0792,Surgery,Surgical Bed,13
+OP_0793,Emergency,Surgical Bed,19
+OP_0794,Surgery,Ventilator,5
+OP_0795,Emergency,Ventilator,12
+OP_0796,ICU,Surgical Bed,1
+OP_0797,Emergency,Ventilator,5
+OP_0798,ICU,CT Scanner,8
+OP_0799,Emergency,CT Scanner,13
+OP_0800,ICU,Ventilator,8
+OP_0801,Emergency,CT Scanner,11
+OP_0802,Radiology,Ventilator,1
+OP_0803,Emergency,Surgical Bed,13
+OP_0804,Emergency,Surgical Bed,19
+OP_0805,Radiology,CT Scanner,3
+OP_0806,Surgery,Ventilator,17
+OP_0807,Surgery,Ventilator,5
+OP_0808,Emergency,CT Scanner,8
+OP_0809,Radiology,Surgical Bed,14
+OP_0810,Emergency,CT Scanner,4
+OP_0811,ICU,Surgical Bed,11
+OP_0812,ICU,Ventilator,15
+OP_0813,Emergency,Surgical Bed,19
+OP_0814,Surgery,CT Scanner,7
+OP_0815,Surgery,Ventilator,19
+OP_0816,Emergency,CT Scanner,19
+OP_0817,Emergency,CT Scanner,11
+OP_0818,ICU,Surgical Bed,5
+OP_0819,Surgery,CT Scanner,5
+OP_0820,Emergency,Surgical Bed,8
+OP_0821,ICU,Ventilator,10
+OP_0822,Surgery,Surgical Bed,6
+OP_0823,Radiology,Ventilator,15
+OP_0824,ICU,Surgical Bed,16
+OP_0825,Surgery,CT Scanner,17
+OP_0826,Surgery,Surgical Bed,8
+OP_0827,ICU,Surgical Bed,8
+OP_0828,Radiology,Ventilator,9
+OP_0829,ICU,CT Scanner,2
+OP_0830,Surgery,Surgical Bed,15
+OP_0831,Emergency,CT Scanner,18
+OP_0832,Emergency,Surgical Bed,3
+OP_0833,ICU,Surgical Bed,17
+OP_0834,Surgery,CT Scanner,4
+OP_0835,Emergency,Surgical Bed,4
+OP_0836,Surgery,CT Scanner,14
+OP_0837,ICU,Surgical Bed,9
+OP_0838,Emergency,Ventilator,9
+OP_0839,Surgery,CT Scanner,18
+OP_0840,Emergency,Surgical Bed,10
+OP_0841,ICU,Surgical Bed,4
+OP_0842,Surgery,Ventilator,12
+OP_0843,Emergency,CT Scanner,8
+OP_0844,ICU,Surgical Bed,2
+OP_0845,Emergency,Ventilator,13
+OP_0846,Emergency,Surgical Bed,16
+OP_0847,Radiology,CT Scanner,2
+OP_0848,Radiology,Surgical Bed,11
+OP_0849,ICU,Surgical Bed,10
+OP_0850,Radiology,Surgical Bed,15
+OP_0851,ICU,Surgical Bed,17
+OP_0852,Radiology,Ventilator,8
+OP_0853,Emergency,Ventilator,18
+OP_0854,ICU,CT Scanner,9
+OP_0855,ICU,Ventilator,8
+OP_0856,Emergency,Ventilator,14
+OP_0857,ICU,CT Scanner,18
+OP_0858,ICU,Ventilator,12
+OP_0859,Radiology,Ventilator,19
+OP_0860,ICU,CT Scanner,14
+OP_0861,Surgery,CT Scanner,17
+OP_0862,Emergency,CT Scanner,3
+OP_0863,Radiology,Surgical Bed,7
+OP_0864,Radiology,Surgical Bed,17
+OP_0865,Surgery,CT Scanner,12
+OP_0866,Emergency,CT Scanner,9
+OP_0867,Emergency,CT Scanner,15
+OP_0868,Radiology,Surgical Bed,18
+OP_0869,ICU,Surgical Bed,13
+OP_0870,Radiology,Ventilator,8
+OP_0871,Emergency,Ventilator,14
+OP_0872,Surgery,CT Scanner,8
+OP_0873,Radiology,Surgical Bed,14
+OP_0874,Emergency,Surgical Bed,7
+OP_0875,Radiology,Surgical Bed,12
+OP_0876,ICU,CT Scanner,11
+OP_0877,Radiology,Ventilator,11
+OP_0878,Radiology,CT Scanner,13
+OP_0879,Emergency,Ventilator,18
+OP_0880,Emergency,Ventilator,2
+OP_0881,Emergency,CT Scanner,15
+OP_0882,Radiology,Ventilator,18
+OP_0883,ICU,Ventilator,15
+OP_0884,Surgery,Surgical Bed,19
+OP_0885,Surgery,Ventilator,12
+OP_0886,Emergency,CT Scanner,13
+OP_0887,Emergency,CT Scanner,11
+OP_0888,Radiology,Ventilator,5
+OP_0889,Surgery,Surgical Bed,1
+OP_0890,Emergency,Surgical Bed,3
+OP_0891,ICU,Ventilator,19
+OP_0892,ICU,Ventilator,7
+OP_0893,Emergency,CT Scanner,12
+OP_0894,Emergency,Ventilator,15
+OP_0895,Surgery,Surgical Bed,5
+OP_0896,Surgery,Ventilator,15
+OP_0897,Radiology,CT Scanner,8
+OP_0898,Surgery,CT Scanner,10
+OP_0899,ICU,CT Scanner,16
+OP_0900,ICU,CT Scanner,8
+OP_0901,Emergency,CT Scanner,1
+OP_0902,Surgery,Ventilator,12
+OP_0903,Radiology,Ventilator,5
+OP_0904,ICU,Ventilator,3
+OP_0905,ICU,Ventilator,1
+OP_0906,Radiology,CT Scanner,4
+OP_0907,Radiology,Surgical Bed,8
+OP_0908,ICU,Ventilator,3
+OP_0909,ICU,Surgical Bed,10
+OP_0910,Radiology,Ventilator,2
+OP_0911,ICU,Ventilator,11
+OP_0912,Emergency,Surgical Bed,10
+OP_0913,Emergency,CT Scanner,14
+OP_0914,Radiology,Ventilator,7
+OP_0915,Surgery,Ventilator,2
+OP_0916,Radiology,Ventilator,9
+OP_0917,Radiology,Surgical Bed,16
+OP_0918,Surgery,CT Scanner,13
+OP_0919,Surgery,Surgical Bed,9
+OP_0920,Surgery,Surgical Bed,4
+OP_0921,Emergency,CT Scanner,10
+OP_0922,ICU,Surgical Bed,12
+OP_0923,Emergency,CT Scanner,17
+OP_0924,ICU,Ventilator,14
+OP_0925,Emergency,CT Scanner,14
+OP_0926,ICU,Ventilator,2
+OP_0927,Emergency,Surgical Bed,11
+OP_0928,Surgery,Surgical Bed,16
+OP_0929,Radiology,Ventilator,19
+OP_0930,Emergency,Surgical Bed,6
+OP_0931,ICU,CT Scanner,19
+OP_0932,Surgery,Ventilator,5
+OP_0933,Emergency,Surgical Bed,4
+OP_0934,Emergency,Ventilator,15
+OP_0935,Surgery,CT Scanner,4
+OP_0936,Emergency,CT Scanner,10
+OP_0937,Radiology,Surgical Bed,3
+OP_0938,Emergency,CT Scanner,5
+OP_0939,Radiology,Ventilator,6
+OP_0940,Radiology,CT Scanner,8
+OP_0941,Surgery,Ventilator,7
+OP_0942,Emergency,Ventilator,10
+OP_0943,Surgery,CT Scanner,6
+OP_0944,Emergency,Surgical Bed,14
+OP_0945,Emergency,CT Scanner,4
+OP_0946,ICU,Ventilator,13
+OP_0947,Emergency,Ventilator,17
+OP_0948,Surgery,CT Scanner,7
+OP_0949,Radiology,Surgical Bed,4
+OP_0950,Emergency,Surgical Bed,14
+OP_0951,ICU,Ventilator,3
+OP_0952,Surgery,Ventilator,5
+OP_0953,Emergency,Surgical Bed,16
+OP_0954,Surgery,CT Scanner,4
+OP_0955,ICU,Ventilator,2
+OP_0956,ICU,Ventilator,18
+OP_0957,Surgery,Surgical Bed,19
+OP_0958,Emergency,CT Scanner,19
+OP_0959,Radiology,Surgical Bed,17
+OP_0960,ICU,CT Scanner,14
+OP_0961,Emergency,CT Scanner,19
+OP_0962,Emergency,CT Scanner,13
+OP_0963,Radiology,Ventilator,12
+OP_0964,ICU,Surgical Bed,6
+OP_0965,ICU,Surgical Bed,4
+OP_0966,Emergency,CT Scanner,19
+OP_0967,Emergency,Ventilator,16
+OP_0968,Radiology,Ventilator,13
+OP_0969,Radiology,Surgical Bed,4
+OP_0970,ICU,Ventilator,17
+OP_0971,Surgery,Ventilator,1
+OP_0972,ICU,CT Scanner,18
+OP_0973,Emergency,Ventilator,17
+OP_0974,ICU,CT Scanner,15
+OP_0975,Surgery,Surgical Bed,11
+OP_0976,Radiology,Ventilator,13
+OP_0977,Surgery,Surgical Bed,1
+OP_0978,Surgery,Surgical Bed,17
+OP_0979,Surgery,Ventilator,6
+OP_0980,Radiology,Ventilator,4
+OP_0981,Surgery,Surgical Bed,16
+OP_0982,Surgery,Ventilator,15
+OP_0983,Surgery,CT Scanner,15
+OP_0984,Emergency,CT Scanner,6
+OP_0985,Surgery,Ventilator,15
+OP_0986,Radiology,Surgical Bed,14
+OP_0987,Surgery,Ventilator,11
+OP_0988,Surgery,Ventilator,7
+OP_0989,Radiology,Surgical Bed,9
+OP_0990,Surgery,Surgical Bed,16
+OP_0991,Radiology,CT Scanner,5
+OP_0992,Surgery,Surgical Bed,10
+OP_0993,Radiology,CT Scanner,18
+OP_0994,Surgery,Surgical Bed,3
+OP_0995,Surgery,Ventilator,13
+OP_0996,Emergency,CT Scanner,11
+OP_0997,Emergency,CT Scanner,17
+OP_0998,Surgery,CT Scanner,13
+OP_0999,Surgery,Ventilator,6
+OP_1000,ICU,Ventilator,17
